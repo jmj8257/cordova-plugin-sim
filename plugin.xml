@@ -32,7 +32,7 @@
       <uses-permission android:name="android.permission.READ_PHONE_STATE" />
     </config-file>
 
-    <source-file src="src/android/com/jmj8257/Sim.java" target-dir="src/com/jmj8257" />
+    <source-file src="src/android/com/jmjsoft/Sim.java" target-dir="src/com/jmjsoft" />
 
     <js-module src="www/android/sim.js" name="SimAndroid">
       <merges target="window.plugins.sim" />
