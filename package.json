@@ -1,0 +1,50 @@
+{
+  "name": "@jmj8257/cordova-plugin-sim",
+  "version": "1.0.1",
+  "author": "J.minjun",
+  "description": "모바일 기기의 Sim 정보를 추출한다.",
+  "bugs": {
+    "url": "https://github.com/jmj8257/cordova-plugin-sim/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-sim",
+    "platforms": [
+      "android",
+      "ios",
+      "wp7",
+      "wp8",
+      "windows"
+    ]
+  },
+  "deprecated": false,
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "homepage": "https://github.com/jmj8257/cordova-plugin-sim#readme",
+  "keywords": [
+    "cordova",
+    "sim",
+    "uicc",
+    "carrier",
+    "mcc",
+    "mnc",
+    "telephonenumber",
+    "imei",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova-windows"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jmj8257/cordova-plugin-sim.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
