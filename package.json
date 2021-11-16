@@ -1,6 +1,6 @@
 {
   "name": "@jmj8257/cordova-plugin-sim",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "author": "J.minjun",
   "description": "모바일 기기의 Sim 정보를 추출한다.",
   "bugs": {
@@ -42,7 +42,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jmj8257/cordova-plugin-sim.git"
+    "url": "git+https://github.com/jmj8257/cordova-plugin-sim.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/jmj8257"
