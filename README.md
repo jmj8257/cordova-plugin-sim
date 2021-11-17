@@ -1,11 +1,12 @@
 # cordova-plugin-sim
 
 [![npm](https://img.shields.io/npm/v/cordova-plugin-sim.svg)](https://www.npmjs.com/package/cordova-plugin-sim)
-[![Code Climate](https://codeclimate.com/github/pbakondy/cordova-plugin-sim/badges/gpa.svg)](https://codeclimate.com/github/pbakondy/cordova-plugin-sim)
 ![Platform](https://img.shields.io/badge/platform-android%20%7C%20ios%20%7C%20windows-lightgrey.svg)
 
-This is a cordova plugin to get data from the SIM card like the carrier name, mcc, mnc and country code and other system dependent additional info.
+본 플러그인은 (based on [pbakondy/cordova-plugin-sim](https://github.com/pbakondy/cordova-plugin-sim#readme)) 통신사 이름, mcc, mnc 및 국가 코드와 기타 시스템 의존적인 추가 정보와 같은 SIM 카드에서 데이터를 얻기 위한 cordova 플러그인입니다
 
+## 변경사항
+android api level 30 대응 
 
 ## Installation
 
